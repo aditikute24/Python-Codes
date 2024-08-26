@@ -2,7 +2,7 @@ import turtle
 
 wn=turtle.Screen()         
 wn.setup(768,768)         
-wn.title("_codefacts instagram")
+wn.title("ADITI KUTE")
 wn.bgcolor("#444444")
 
 
